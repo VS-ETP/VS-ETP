@@ -3,6 +3,7 @@
 real time training for the technology learners
 -technologies:
  java, J2EE, Spring, application development
+for front end technologies angular and react 
 
 - 📫 vsetp123@gmail.com
 
